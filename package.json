@@ -5,7 +5,7 @@
   "version": "2.1.1",
   "private": false,
   "scripts": {
-    "dev": "next",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "export": "next export",
@@ -26,7 +26,7 @@
     "chart.js": "3.9.1",
     "date-fns": "2.29.3",
     "formik": "2.2.9",
-    "next": "12.3.0",
+    "next": "^12.3.0",
     "nprogress": "0.2.0",
     "prop-types": "15.8.1",
     "react": "18.2.0",
